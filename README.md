@@ -6,7 +6,7 @@
  
  - npm i -g graphql
  
- - npm i @graphql/types
+ - npm i @types/graphql
  
  - yarn build
 
